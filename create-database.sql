@@ -1,0 +1,4 @@
+CREATE DATABASE UsersData;
+GO
+USE UsersData;
+GO
